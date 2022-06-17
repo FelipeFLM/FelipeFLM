@@ -8,7 +8,7 @@
   
 ## Hey there 👋
 
-"Meu nome é Felipe, atualmente trabalho como Desenvolvedor Back-End no Sistema Jornal do Commercio de Comunicação.
+Meu nome é Felipe, atualmente trabalho como Desenvolvedor Back-End no Sistema Jornal do Commercio de Comunicação.
 
 :zap: Algumas das minhas Habilidades:
 
